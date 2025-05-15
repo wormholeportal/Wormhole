@@ -9,7 +9,7 @@
 
 # 🚀 Google A2A Toolkit & Agents
 [![Python 3.9+](https://img.shields.io/badge/python-3.9%20|%203.10%20|%203.11-blue?logo=python)](https://www.python.org)
-[![License](https://img.shields.io/github/license/wormholeportal/Wormhole)](https://www.apache.org/licenses/LICENSE-2.0)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 **Wormhole** wraps Google's official [A2A](https://github.com/google/A2A) repository with a developer-friendly layer that:
 

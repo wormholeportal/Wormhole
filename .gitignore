@@ -89,12 +89,7 @@ temp.*
 *.sqlite3
 *.npy
 *.pyc
-*.png
-*.jpg
 *.pth
 *.mp3
 *.mp4
 *.mvk
-*.ass
-*.srt
-*.ttf
